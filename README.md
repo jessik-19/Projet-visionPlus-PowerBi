@@ -36,6 +36,3 @@ VisionPlus est un projet analytique permettant de visualiser et d'analyser les d
 
 ---
 
-## 🗃️ **Structure du dépôt :**
-
-
